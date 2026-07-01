@@ -1,0 +1,67 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+conda_env/
+
+# Build outputs
+build/
+build-gui/
+dist/
+*.spec.tmp
+*.exe
+
+# Local IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Local logs and operation records
+操作日志/
+测试文件/
+*.log
+
+# WXWork recovered data and private artifacts
+WXWorkRecovered/
+organized_external_groups/
+wxwork_*_partial_*
+message_table_partial_*
+*_readable.csv
+*_report.md
+*.sqlite
+*.db
+*.csv
+*.jsonl
+*.zip
+
+# Recovered media
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.webp
+*.bmp
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.wmv
+*.m4v
+*.webm
+*.mp3
+*.wav
+*.aac
+*.m4a
+*.amr
+*.silk
+*.opus
+
+# Local request files
+需求.md
+img*.png
