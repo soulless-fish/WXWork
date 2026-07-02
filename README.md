@@ -107,24 +107,6 @@ powershell -ExecutionPolicy Bypass -File .\打包配置\构建脚本\Build_WXWor
    └─ 构建脚本
 ```
 
-## 不纳入公开仓库的内容
-
-- `操作日志/`
-- `测试文件/`
-- `organized_external_groups/`
-- `dist/`
-- `__pycache__/`
-- `.idea/`
-- `wxwork_*_partial_*`
-- `message_table_partial_*`
-- `*.sqlite`
-- `*.db`
-- `*.csv`
-- `*.jsonl`
-- `*.zip`
-- `*.exe`
-- 图片和视频恢复产物
-
 ## 项目名称
 
 本项目公开名称定为：
